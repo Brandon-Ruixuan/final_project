@@ -14,3 +14,5 @@ This is my final project on Vietnam
 
 ![](Vietnam_strech.png)
 
+![](vnm_video.gif)
+
