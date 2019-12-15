@@ -37,6 +37,12 @@ Areas with the first and second high population are Hanoi and Saigon. One is the
 
 With the data we extract from HDX, we could analyze the corelation between some varibles like topography and population. 
 ## Correlationship Pop19 & lights, urban cover, and bare cover
-
+![](Screen Shot 2019-12-12 at 4.04.41 PM.png)
 Population of Vietnam (Dependent variable) lights, urban cover, and bare cover (Independent variable)
 #
+
+##Urban Population
+Now we can focus on An Giang which I introduced in the first graph as 'Detail A'
+## Geographic location of An Giang
+![](Screen Shot 2019-12-15 at 4.14.06 AM.png)
+
