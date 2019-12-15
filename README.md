@@ -50,4 +50,7 @@ The coloered part is the An Giang county, then we narrow it down to two adjacent
 ![](combined county.png)
 
 The total population of my selected area is 378,956. Tinh Bien and Chau Phu are sub-provinces  of  the  county,  An  Giang.  Tinh  Bien  has  196,475  people  and  Chau  Phu has 182,481 people. There are 28 defined urban areas in total. Vietnam  has  a  very  special  population  distribution.  There  were  several  small areas  within  the  selected  county  that  have  a  relatively  high  population  which  causes the density of those areas to extremely high. In order to eliminate those areas, I looked into  the  density  column  and  sorted  it  by  population  density,  and  I  set  the  filter  at  a credible value to filter out the places with high density and small area.
+## Correlationship Urban areas & population 
+![](Screen Shot 2019-12-15 at 4.38.11 AM.png)
+
 
