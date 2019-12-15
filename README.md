@@ -29,3 +29,6 @@ When we re-generate population by objective factors such as topography or water 
 ![](Screen Shot 2019-10-21 at 9.25.12 PM.png)
 ![](Screen Shot 2019-10-21 at 9.25.29 PM.png)
 ![](Screen Shot 2019-10-21 at 9.26.52 PM.png)
+
+Areas with the first and second high population are Hanoi and Saigon. One is the political center and the  other  is  the  commercial  center.  However,  the  sum  model  of  population  does  seem  to  be overestimate the population of the area compare to the other two graphs.
+## Population Sum
