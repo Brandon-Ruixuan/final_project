@@ -25,3 +25,7 @@ As we can see from the bar graph, Ho Chi Min City (Saigon) and Ha Noi appear to 
 The most populated counties in Vietnam is Ho chi Minh City, and the most populated district in Ho Chi Minh City is Binh Tan. Binh Tan tends to have more population than certain counties independent counties in Vietnam. 
 
 When we re-generate population by objective factors such as topography or water distribution. The most accurate model among  three is the log model of the population. The absolute value of the difference between the world population from HDX and the log pop model prediction is the smallest. Although all of the data sets are similar, the log model is slightly better than the other two. 
+## Population Log(pop)
+![](Screen Shot 2019-10-21 at 9.25.12 PM)
+![](Screen Shot 2019-10-21 at 9.25.29 PM)
+![](Screen Shot 2019-10-21 at 9.26.52 PM)
