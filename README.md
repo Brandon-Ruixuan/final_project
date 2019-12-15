@@ -33,3 +33,10 @@ When we re-generate population by objective factors such as topography or water 
 Areas with the first and second high population are Hanoi and Saigon. One is the political center and the  other  is  the  commercial  center.  However,  the  sum  model  of  population  does  seem  to  be overestimate the population of the area compare to the other two graphs.
 ## Population Sum
 ![](Screen Shot 2019-10-21 at 9.28.08 PM.png)
+
+
+With the data we extract from HDX, we could analyze the corelation between some varibles like topography and population. 
+## Correlationship Pop19 & lights, urban cover, and bare cover
+
+Population of Vietnam (Dependent variable) lights, urban cover, and bare cover (Independent variable)
+#
