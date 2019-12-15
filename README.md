@@ -19,6 +19,7 @@ As we can see from the bar graph, Ho Chi Min City (Saigon) and Ha Noi appear to 
 
 ![](Vietnam_strech.png)
 
+## 3D representation of population by department
 ![](vnm_video.gif)
 
 The most populated counties in Vietnam is Ho chi Minh City, and the most populated district in Ho Chi Minh City is Binh Tan. Binh Tan tends to have more population than certain counties independent counties in Vietnam. 
