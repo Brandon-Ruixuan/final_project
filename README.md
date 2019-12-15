@@ -45,4 +45,6 @@ Population of Vietnam (Dependent variable) lights, urban cover, and bare cover (
 Now we can focus on An Giang which I introduced in the first graph as 'Detail A'
 ## Geographic location of An Giang
 ![](Screen Shot 2019-12-02 at 7.04.01 PM.png)
+The coloered part is the An Giang county, then we narrow it down to two adjacent district--Chau Phu and Tinh Bien
+## Geographic location of Chau Phu and Tinh Bien
 
