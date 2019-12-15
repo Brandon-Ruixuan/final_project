@@ -57,3 +57,4 @@ I mapped out primary, secondary, and unclassified roads. The blue line on the ma
 ## distribution of Heath care service and dining facility in Tinh Bien and Chau Phu
 ![](Screen Shot 2019-12-15 at 4.57.31 AM.png)
 
+!
