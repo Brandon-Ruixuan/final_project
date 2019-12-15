@@ -44,5 +44,5 @@ Population of Vietnam (Dependent variable) lights, urban cover, and bare cover (
 ##Urban Population
 Now we can focus on An Giang which I introduced in the first graph as 'Detail A'
 ## Geographic location of An Giang
-![](Screen Shot 2019-12-15 at 4.14.06 AM.png)
+![](Screen Shot 2019-12-02 at 7.04.01 PM.png)
 
