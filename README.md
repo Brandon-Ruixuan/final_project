@@ -5,13 +5,15 @@ This is my final project on Vietnam. In the past semster, we generate more preci
 ## Administrative Subdivisions of Vietnam
 
 ![](details.png)
-Administrative Subdivisions of Vietnam(By province)
+Administrative Subdivisions of Vietnam(By County)
 #
-Vietnam has 63 provinces, and 710 municipalities. Among these provinces, the most populated one is Ho chi min city, and the population is 8.993 million people.
+Vietnam has 63 counties, and 710 districts. Among these counties, the most populated one is Ho chi min city, and the population is 8.993 million people.
 
 ## Population of Vietnam's Counties
 
 ![](Project 1.png)
+
+As we can see from the bar graph, Ho Chi Min City (Saigon) and Ha Noi appear to be more populated than the rest. Ha Noi is the political center of the country and Ho Chi Min City tends to be the financial centre. Vietnam is an agricultural based country, the least populated areas of Vietnam are mostly used for farming or mining. 
 
 ## Population of Vietnam's Districts
 
@@ -19,3 +21,4 @@ Vietnam has 63 provinces, and 710 municipalities. Among these provinces, the mos
 
 ![](vnm_video.gif)
 
+The most populated counties in Vietnam is Ho chi Minh City, and the most populated district in Ho Chi Minh City is Binh Tan. Binh Tan tends to have more population than certain counties independent counties in Vietnam. 
