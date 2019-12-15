@@ -62,6 +62,6 @@ I mapped out primary, secondary, and unclassified roads. The blue line on the ma
 There are 7 hospital inside Chau phu along the river side according to open street map. If the driver want to drive from the very western side of Tinh Bien to the hospital in Tinh bien, the driver will spend 1 hour to get there. Vietnam doesn't have universal insurance, and most of the private hospital tend to be expensive. Overall, access to the proper health care in Vietnam for Vietnamese is not easy.
 
 ## Topography of Tinh Bien & Chau Phu
-![](Screen Shot 2019-11-20 at 1.58.13 PM.png)
+![](Screen Shot 2019-11-20 at 6.08.44 PM.png)
 
 Topography played a critical role in the extent to which areas are urbanized in Tinh Bien and Chau Phu. In Chau Phu, the region is generally flatter than Tinh Bien, and the major urban area tends to spread across the whole area. In Chau Phu, majority of the population resides around the mountains. Xuan Bien is the most populated village within the selected region. The village itself sits directly beside the road which connects Cambodia and Vietnam. Commercial activity apparently foster the development of surrounding villages.
