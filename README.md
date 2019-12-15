@@ -27,3 +27,5 @@ The most populated counties in Vietnam is Ho chi Minh City, and the most populat
 When we re-generate population by objective factors such as topography or water distribution. The most accurate model among  three is the log model of the population. The absolute value of the difference between the world population from HDX and the log pop model prediction is the smallest. Although all of the data sets are similar, the log model is slightly better than the other two. 
 ## Population Log(pop)
 ![](Screen Shot 2019-10-21 at 9.25.12 PM.png)
+![](Screen Shot 2019-10-21 at 9.25.29 PM.png)
+![](Screen Shot 2019-10-21 at 9.26.52 PM.png)
