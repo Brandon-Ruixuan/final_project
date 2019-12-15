@@ -53,4 +53,7 @@ The total population of my selected area is 378,956. Tinh Bien and Chau Phu are 
 ## Correlationship Urban areas & population 
 ![](Screen Shot 2019-12-15 at 4.38.11 AM.png)
 
+I mapped out primary, secondary, and unclassified roads. The blue line on the map is residence, the yellow line is primary road, the pink one is secondary road, and the grey one is unclassified road. Large amount of unclassified roads verified the basic transportation in Vietnam is motorcycle.I dotted the health facility(which includes hospital, dentist, clinic)  with  a  green  dot.  The  original  data  from  HDX  aren’t  applicable,  because  they show  that  there  are  only  162  hospitals  in  Vietnam  and  none  of  them  are  in  the  sub-provinces I selected. However, I searched on google and found out there are more than a dozen of the hospital in An Giang along. So I used the special open-spaced code on slack to find more health facilities on the map. Now, the green dots on the map are the health  facility,  the  red  dots  on  the  map  are  dining  services,  and  the  big  brown  dot  on the map is the pub. 
+## distribution of Heath care service and dining facility in Tinh Bien and Chau Phu
+![](
 
